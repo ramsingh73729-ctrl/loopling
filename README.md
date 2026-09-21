@@ -77,9 +77,6 @@ To get a local copy up and running, follow these simple steps:
 * Expo CLI (if using React Native / Expo) or Flutter SDK
 
 ### Installation
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/your-username/loopling.git](https://github.com/your-use
    npm install
    npm start
    Core API EndpointsMethodEndpointDescriptionPOST/api/auth/registerRegister a new user accountPOST/api/auth/loginAuthenticate user & issue JWT tokenGET/api/loops/feedFetch personalized user loops feedPOST/api/loops/createUpload a new media loopGET/api/user/profile/:idFetch user profile and status rings
